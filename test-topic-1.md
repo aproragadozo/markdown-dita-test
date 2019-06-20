@@ -15,6 +15,6 @@ Here goes:
 
 So there.
 
-![Sadly, the syntax does not support captions out of the box.](diagram-1.png)
+![Sadly, the syntax does not support captions out of the box.](_images/diagram-1.png)
 
 *Sadly, the syntax does not support captions out of the box.*

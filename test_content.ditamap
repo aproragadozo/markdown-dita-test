@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Test Content</title>
+    <topicref navtitle="Test Topic the First" id="t-t-1" format="markdown" href="test-topic-1.md"/>
+</map>
